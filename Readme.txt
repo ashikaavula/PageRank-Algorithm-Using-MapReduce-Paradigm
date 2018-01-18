@@ -1,12 +1,12 @@
 //Ashika Avula 
 //aavula@uncc.edu
 
-I have compiled all java files in terminal. The following are the steps which i followed for execution.
+Compile all java files in terminal. The following are the steps.
 micro-wiki.out contains all output
 micro-wiki_first100.out contains first 100 lines of output
-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
 
-First we have to create input and output paths in hdfs. I have already done that in asignment1 and i am using same for assignment2 
+First we have to create input and output paths in hdfs.
 
 My input path is:
 /home/cloudera/wordcount/input
@@ -24,7 +24,7 @@ Command: hadoop fs -ls /user/cloudera/wordcount/input
 
 In the same way we can check files in ouput by using following command.
 Command: hadoop fs -ls /user/cloudera/wordcount/output
---------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 Google_PageRank.java execution as follows:
 
