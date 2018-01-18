@@ -1,5 +1,3 @@
-//Ashika Avula
-//800972702
 package org.myorg;
 
 import java.io.IOException;
