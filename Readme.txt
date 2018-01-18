@@ -1,6 +1,3 @@
-//Ashika Avula 
-//aavula@uncc.edu
-
 Compile all java files in terminal. The following are the steps.
 micro-wiki.out contains all output
 micro-wiki_first100.out contains first 100 lines of output
